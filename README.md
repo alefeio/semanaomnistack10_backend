@@ -1,4 +1,4 @@
-Projeto criado em React JS, realizado na Semana Omnistack, pela Rocketseat, onde também abrangeu os cursos de NodeJS/MongoDB, AWS Cloud e React Native.
+Projeto criado em Node JS com banco de dados não relacional em MongoDB, realizado na Semana Omnistack, pela Rocketseat, onde também abrangeu os módulos de React JS, AWS Cloud e React Native.
 
 No curso, primeiramente foi criada uma api em NodeJS e MongoDB (comitada neste repositório) e hospedada na plataforma AWS do MongoDB.
 
